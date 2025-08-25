@@ -1,4 +1,4 @@
-<img width="452" height="689" alt="image" src="https://github.com/user-attachments/assets/0af95c9a-4100-4b29-8efb-3510b117c60f" /><img width="708" height="1125" alt="image" src="https://github.com/user-attachments/assets/cef00b10-df67-475e-9f9f-f63be2217b6d" /><img width="708" height="1125" alt="image" src="https://github.com/user-attachments/assets/0a8b69fc-4926-48bf-a3ef-74814280f245" />🚦 Accident Detection & Alert System (YOLOv8 + Telegram Bot).
+🚦 Accident Detection & Alert System (YOLOv8 + Telegram Bot).
 This project uses YOLOv8 (You Only Look Once) for real-time accident detection in traffic footage.
 Whenever an accident is detected, the system automatically sends a Telegram alert with an image snapshot of the detected accident.
 🔥 Features
@@ -63,7 +63,8 @@ Accident cleared → Detection resets and waits for next accident.
 When an accident is detected:
 
 🚨 Accident Detected! Please take action.
-📸 
+📸 <img width="452" height="689" alt="image" src="https://github.com/user-attachments/assets/5769c778-3951-4690-88ff-5c6fd6651f3b" />
+
 
 🚀 Future Improvements
 
